@@ -1,5 +1,5 @@
 # Tretter Transgender Oral History Project
-Plain text files from the [University of Minnesota's Trettor Transgender Oral History Project](https://trettertransoralhistory.umn.edu/).
+Plain text files from the [University of Minnesota's Tretter Transgender Oral History Project](https://trettertransoralhistory.umn.edu/).
 
 Repository includes original PDF transcripts, metadata spreadsheet, raw OCR output, and cleaned plain txt files.
 
