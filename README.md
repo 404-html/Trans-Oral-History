@@ -5,7 +5,7 @@ Repository includes original PDF transcripts, metadata spreadsheet, raw OCR outp
 
 Description from [the project website](https://trettertransoralhistory.umn.edu/curated-films/project-info-and-curator-bio/):
 
-"The Tretter Transgender Oral History Project (TTOHP) is part of the [Jean-Nickolaus Tretter Collection in GLBT Studies at the University of Minnesota Libraries](https://www.lib.umn.edu/tretter). The Tretter Collection has approximately 3,500 linear feet of material about GLBT history around the world.
+<blockquote>"The Tretter Transgender Oral History Project (TTOHP) is part of the [Jean-Nickolaus Tretter Collection in GLBT Studies at the University of Minnesota Libraries](https://www.lib.umn.edu/tretter). The Tretter Collection has approximately 3,500 linear feet of material about GLBT history around the world.
 
 Transgender voices and experiences are often missing from contemporary documentation and historic record. To help fill in the gaps, the Tretter Collection proposed an ambitious three year project (2015-2018) to add oral histories from transgender and gender queer individuals throughout the Upper Midwest.
 
@@ -15,4 +15,4 @@ The TTOHP (Phase 1) is made up of 200 unique stories which can be found on the U
 
 We are deeply grateful to all of those who helped make this project happen including Tawani Foundation and our other donors and supporters. But, most of all, to those who shared their stories with us.
 
-We are proud that the success of Phase 1 has resulted in a commitment to create a Phase 2 of the Project. This next phase (2018-2020) will look at policy, community organizing and political activism. We will explore how – in an era with unprecedented focus on transgender issue – how trans lead, GLBT, and mainstream organizations are responding to the challenges, who is setting the agenda and how partnerships are evolving."
+We are proud that the success of Phase 1 has resulted in a commitment to create a Phase 2 of the Project. This next phase (2018-2020) will look at policy, community organizing and political activism. We will explore how – in an era with unprecedented focus on transgender issue – how trans lead, GLBT, and mainstream organizations are responding to the challenges, who is setting the agenda and how partnerships are evolving."</blockquote>
