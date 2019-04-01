@@ -19,7 +19,5 @@ We are proud that the success of Phase 1 has resulted in a commitment to create 
 
 Textual analysis tutorials using this collection:
 
-<ul>
-  <li>[Voyant Tools](https://dataweek.sites.grinnell.edu/thursday-data-challenge/textual-analysis-voyant-tools/)<li>
-  <li>[Ant Conc](https://dataweek.sites.grinnell.edu/thursday-data-challenge/ant-conc/)</li>
-</ul>
+*[Voyant Tools](https://dataweek.sites.grinnell.edu/thursday-data-challenge/textual-analysis-voyant-tools/)
+*[Ant Conc](https://dataweek.sites.grinnell.edu/thursday-data-challenge/ant-conc/)
