@@ -16,3 +16,8 @@ The TTOHP (Phase 1) is made up of 200 unique stories which can be found on the U
 We are deeply grateful to all of those who helped make this project happen including Tawani Foundation and our other donors and supporters. But, most of all, to those who shared their stories with us.
 
 We are proud that the success of Phase 1 has resulted in a commitment to create a Phase 2 of the Project. This next phase (2018-2020) will look at policy, community organizing and political activism. We will explore how – in an era with unprecedented focus on transgender issue – how trans lead, GLBT, and mainstream organizations are responding to the challenges, who is setting the agenda and how partnerships are evolving."</blockquote>
+
+Textual analysis tutorials using this collection:
+
+[Vyant Tools](https://dataweek.sites.grinnell.edu/thursday-data-challenge/textual-analysis-voyant-tools/)
+[nt Conc](https://dataweek.sites.grinnell.edu/thursday-data-challenge/ant-conc/)
